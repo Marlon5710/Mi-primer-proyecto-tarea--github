@@ -1,8 +1,8 @@
 # Mi-primer-Repositorio-github
-Marlon Alexander Dotel Alcantara, Estudiante de UNAPEC, Ingeniero en Software.
+Este es mi primer repositorio como parte de la actividad en clase
 
 ## Descripción
-Este es mi primer repositorio como parte de la actividad de la clase.
+Marlon Alexander Dotel Alcantara, Estudiante de UNAPEC, Ingeniero en Software.
 
 ## Objetivo
 Aprender a usar Github como plataforma de control de versiones y colaboración
